@@ -1,7 +1,6 @@
 #  Hello, I'm Jyothi Surla
 
 AI Master's Student | Python Developer | Machine Learning Engineer  
-Berlin, Germany | jyothisurlaai@gmail.com | [Portfolio] (https://jyothi-surla-portfolio-app-kotusx.streamlit.app/)
 
 ---
 
