@@ -46,7 +46,7 @@ Detects blurry or overexposed images using OpenCV to ensure high-quality sensor 
 
 📍 Berlin, Germany  
 📧 jyothisurlaai@gmail.com  
-🔗 [LinkedIn](linkedin.com/in/jyothi-surla-721387237)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyothisurla/)  
 🔗 [GitHub](https://github.com/Jyothi-Surla)  
 
 -->
